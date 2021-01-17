@@ -57,5 +57,7 @@ driver.execute_script(submit_js)
 跳转成功页面，就恭喜你成功越过了。
 以上操作都可通过selenium自动化完成，且若不能成功返回数据的，请看官方文档，里面详细的介绍的出现错误的类型及其解决方式。
 源码已经附上，需要的可直接下载。
-官方文档：www.sunxiaodou.icu
+官方文档：
+www.sunxiaodou.icu
+
 https://2captcha.com/2captcha-api#solving_recaptchav2_new
